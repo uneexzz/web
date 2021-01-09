@@ -1,0 +1,286 @@
+body{
+
+}
+.header{
+	padding-top: 50px;
+	height: 125px;
+}
+.container{
+	width: 1440px;
+}
+.btn-sign{
+	width: 80px;
+	height: 25px
+	color: #fff;
+	border: 2px solid #fff;
+	font-size: 15px;
+	padding: 0;
+	margin-top: 5px;
+	color: #fff;
+}
+.btn-sign:hover{
+	color:#fff;
+}
+.nav__link{
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 15px;
+	color: #fff;
+	margin-top: 5px;
+}
+.nav__link:hover{
+	color: #052f55;
+	transition: .2s;
+}
+
+.section{
+	background: url(../img/bg.jpg)	
+}
+.title{
+	max-height: 110px;
+}
+.intro{
+	background-image: url(../img/bg.jpg);
+	height: 625px;
+		
+}
+.introtitle{
+	text-align: center;
+	color: #fff;
+}
+.introsubtitle{
+	font-size: 14px;
+	text-align: center;
+	color: #fff ;
+}
+.video{
+	display: flex;
+	justify-content: center;
+}
+.introbtn{
+	width: 150px;
+	height: 55px;
+	border-radius: 5px;
+	border: 0;
+	text-transform: uppercase;
+}
+.introbtn:hover{
+	background-color: #052f55;
+	color: #fff;
+	transition: .2s;
+}
+.usetitle{
+	color:#052f55;
+	text-align: center;
+	margin-top: 100px;
+	font-size: 45px;
+	margin-bottom: 20px;
+}
+.usesubtitle{
+	font-size: 25px;
+	color: #b0bec5;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.uselorem{
+	font-size: 15px;
+	color: #b0bec5;
+	text-align: center;
+	margin-bottom: 100px;
+}
+.advan{
+	text-align: center;
+	display: inline-block;
+}
+.advan1{
+	margin-top: 10px;
+	text-align: center;
+	display: inline-block;
+}
+.advantitle{
+	font-size: 20px;
+	color: #061e37;
+}
+.advansubtitle{
+	font-size: 15px;
+	color: #78909c;
+}
+.icon{
+	margin-bottom: 20px;
+}
+.advanbtn{
+	width: 150px;
+	height: 50px;
+	background: #1de9b6;
+	color: #fff;
+	border-radius: 5px;
+	border: 0px;
+	text-transform: uppercase;
+	font-size: 15px;
+	padding-left: 25px;
+	padding-right: 25px;
+	text-align: center;
+	margin-bottom: 90px;
+	
+}
+.testimonaials{
+	max-width: 1440px;
+}
+.testi{
+	background-color: #80d8ff;
+	height: 150px;
+	color: #fff;	
+}
+.testi2{
+	background-color: #82b1ff;
+	height: 150px;
+	color: #fff;	
+}
+.testi3{
+	background-color: #b388ff;
+	height: 150px;
+	color: #fff;	
+}
+.testi4{
+	background-color: #ea80fc;
+	height: 150px;
+	color: #fff;	
+}
+
+.testititle{
+	font-size: 20px;
+	text-align: right;
+	padding-top: 15px;
+	height: 35px;
+}
+.testisubtitle{
+	padding-left: 78px;
+}
+.servblock{
+	width: 700px;
+	height: 50px;
+box-shadow: 0 0 5px  rgba(0,0,0,0.5);		text-align: center;
+	margin-bottom: 15px;
+	border-radius: 5px;
+}
+.servtitle{
+	font-size: 45px;
+	color: #061e37;
+	margin-top: 100px;
+}
+.servsubtitle{
+	font-size: 15px;
+	color:#b0bec5;
+}
+.blocktitle{
+	font-size:15px ;
+	color: #061e37;
+	text-transform: uppercase;
+	padding-top: 5px;
+}
+.services{
+	height: 875px;
+}
+.review{
+	background-image: url(../img/reviewbg.jpg);
+	height: 565px;
+}
+.people{
+	max-width: 80px;
+	margin-top: 130px;	
+	max-height: 60px;	
+	
+}
+.revtitle{
+	margin-top: 110px;	
+	color:#fff;
+
+}
+.revbox{
+	width: 680px;
+	height: 140px;
+	background: #fff;
+	margin-top: 90px;
+	box-shadow: 0 0 5px  rgba(0,0,0,0.5);
+	border-radius: 5px;
+}	
+.boxtitle{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 18px;
+}
+.box-subtitle{
+	font-size: 15px;
+	color: #78909c;
+}
+.revsubtitle{
+	padding-top: 130px;
+	font-size: 15px;
+	color:#fff;
+}
+.getbtn{
+	color: #fff;
+	width:150px ;
+	height: 55px;
+	background: #061e37;
+	border-radius: 5px;
+	margin-top: 25px;
+	text-transform: uppercase;
+	margin-left: 10px;
+}
+.teamc{
+	height: 165px;
+	width: 170px;
+	margin-bottom: 60px;
+}
+.leftright{
+	margin-top: 30px;
+	height: 100px;
+}
+.peopletitle{
+	font-size: 15px;
+}
+.peoplesubtitle{
+	font-size: 6px;
+}
+.team{
+	height: 700px;
+}
+.name{
+	width: 280px;
+	height: 50px;
+	border: 2px solid #061e37;
+	border-radius: 5px;
+	margin-bottom: 25px;
+}
+.message{
+	width: 675px;
+	height: 150px;
+	border: 2px solid #061e37;
+	border-radius: 5px;
+}
+.contact{
+	background: #fafafa;
+	height: 660px;
+	
+}
+.subscribe{
+	margin-top: 35px;
+	text-align: center;
+	padding: 0;
+	height: 15px;	
+	line-height: 15px;
+	
+}
+.contbtn{
+	background: #1de9b6;
+	width: 130px;
+	height:  50px;
+	text-transform: uppercase;
+	color:#fff;
+	margin-top: 20px;
+}
+footer{
+	background: #061e37;
+	height: 300px;
+}
